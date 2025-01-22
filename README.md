@@ -6,7 +6,7 @@ I'm Abdelmalek , a passionate AI student and manger of IA in Kaleam company with
 
 🤝 Open to Collaborations: CNN , RNN , NLP , models training , testing the codes 
 
-📫 How to Reach Me: linkedin.com/in/abdelmalek-hmidan-17ba8227a
+📫 How to Reach Me: [here] (linkedin.com/in/abdelmalek-hmidan-17ba8227a)
 
 <!--
 **AbdelmalekHmidan/AbdelmalekHmidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
